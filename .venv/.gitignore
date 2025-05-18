@@ -1,0 +1,6 @@
+echo .idea/ >> .gitignore
+echo __pycache__/ >> .gitignore
+echo *.pyc >> .gitignore
+echo .venv/ >> .gitignore
+# created by virtualenv automatically
+
